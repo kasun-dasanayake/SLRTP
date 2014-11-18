@@ -1,0 +1,69 @@
+::selection {
+	background: #c71219;
+	color: #fff;
+	text-shadow: none;
+}
+
+::-moz-selection {
+	background: #c71219;
+	color: #fff;
+	text-shadow: none;
+}
+
+body, .featured .column-header, button, .button, a.button, .button.black:hover, .ddsmoothmenu ul li ul li a:hover, .ddsmoothmenu ul li ul li a.current, .flexslider .flex-next:hover, .flexslider .flex-prev:hover, .custom-blocks .block a:hover, .portfolio-icons a:hover, .portfolio-filter li a.selected span, .portfolio-filter li a:hover span, .categories-widget li a:hover span, .archives-widget li a:hover span, #footer .categories-widget li a:hover span, #footer .archives-widget li a:hover span, .tag-cloud a:hover, #footer .tag-cloud a:hover, .post-nav a:hover .arrow, .post-nav a:hover .grid, .page-list .current, .comment-info cite .author, .dropcap.circle, .dropcap.square, .highlight, #scroll-top a:hover {
+		background-color: #c71219;
+}
+
+a, a.link:hover, .required, .divider a.top:hover, .featured .column-header, .featured .title, a.goto, #content-slider-nav .pagination li a:hover strong, .tag-line h1 span, .portfolio-item .post-info a:hover .post-title, #sidebar .subnav-widget li a:hover, #sidebar .categories-widget li a:hover, #sidebar .archives-widget li a:hover, #sidebar .meta-widget li a:hover, #sidebar .popular-posts-widget li a:hover, #sidebar .recent-posts-widget li a:hover, #sidebar .recent-comments-widget li a:hover, #sidebar .posts-list .post-info .post-meta a:hover, #content .section-wrap .follow-us a:hover, .social-media-widget ul li a:hover, .post-title a:hover, .post-meta a:hover, .author-name a:hover, .icon-box-title a:hover, .icon-box.active .icon-font span, .comment-info cite a:hover {
+		color: black;
+}
+
+a.link:hover, input.text-input:focus, textarea.textarea:focus, select:focus, .featured .column-header, .featured .column-footer, .ddsmoothmenu ul li ul li a:hover, .ddsmoothmenu ul li ul li a.current, .portfolio-item:hover .post-info, .categories-widget li a:hover span, .archives-widget li a:hover span, #footer .categories-widget li a:hover span, #footer .archives-widget li a:hover span, input.search-input:focus, .tag-cloud a:hover, #footer .tag-cloud a:hover, #content .section-wrap .follow-us a:hover, .author-name a:hover, .page-list .current, .h-tabs .tabs li a.current, .v-tabs .tabs li a.current {
+		border-color: #c71219;
+}
+
+.h-tabs .tabs li a.current {
+	border-bottom: 1px solid #f9f9f9;
+}
+
+.v-tabs .tabs li a.current {
+	border-right: 1px solid #f9f9f9;
+}
+
+.featured .column-footer {
+	border-left: 1px solid #e5e5e5;
+}
+
+a.goto {
+	background: transparent url('../images/color/1/goto_arrow.png') no-repeat scroll 100% 50%;
+}
+
+.portfolio-filter li a  {
+	background: transparent url('../images/color/1/filter_arrow_active.png') no-repeat scroll center 0;
+}
+
+.widget-title, .blog-post .post-title {
+	-webkit-border-image: url('../images/color/1/image_border.png') 1 0;
+	-moz-border-image: url('../images/color/1/image_border.png') 1 0;
+	-o-border-image: url('../images/color/1/image_border.png') 1 0;
+	border-image: url('../images/color/1/image_border.png') 1 0;
+}
+
+#footer .widget-title {
+	-webkit-border-image: url('../images/color/1/image_border_footer.png') 1 0;
+	-moz-border-image: url('../images/color/1/image_border_footer.png') 1 0;
+	-o-border-image: url('../images/color/1/image_border_footer.png') 1 0;
+	border-image: url('../images/color/1/image_border_footer.png') 1 0;
+}
+
+.toggle-title, .accordion-title {
+	background: #f3f3f3 url('../images/color/1/expand.png') no-repeat scroll 12px 11px;
+}
+
+.toggle-active, .accordion .current {
+	background:  #fff url('../images/color/1/collapse.png') no-repeat scroll 12px 11px;
+}
+
+.colored {
+		color: #c71219 !important;
+}

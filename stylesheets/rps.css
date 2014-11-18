@@ -1,0 +1,185 @@
+
+
+article {
+    width: 700px;
+    margin-right: 0px;
+    float: left;
+}
+
+article h1 {
+    font-size: 110%;
+    margin-top: 12pt;
+    margin-bottom: 0;
+    padding-top: 3pt;
+}
+
+article form {
+    padding-top: 20px;
+    background: url('../images/bg_dark.png') repeat scroll 0px 0px #F3F3F3;
+    position: relative;
+    border: 1px solid #E5E5E5;
+    border-radius: 3px;
+    box-shadow: 0px 1px 0px 0px #FFF inset;
+}
+
+article form table {
+    margin: o auto;
+    padding-top: 10px;
+}
+
+article form table tr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    padding: 10px;
+}
+
+article form table td {
+    font-size: 150%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    padding: 15px 20px 10px 30px;
+}
+
+article p {
+    font-family: tahoma, sans-serif;
+}
+
+article mark {
+    background-color: #fd0;
+}
+
+details summary {
+    font-family: tahoma, sans-serif;
+    font-size: 110%;
+    color: #531;
+    margin: 1ex 12pt;
+}
+
+planner{
+    margin: 0;
+    padding: 0;
+    border: 1px solid #ccc;
+}
+planner table{
+    margin: o auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+planner table tr{
+    padding: 15px;
+    margin: 0;
+}
+
+planner table tr th{
+    margin: 0;
+    padding: 5px;
+}
+
+.parent{
+    background-color: #F8F8F8;
+    cursor:pointer;
+    height:auto;
+    padding: 5px;
+    border-collapse: collapse;
+    border: 1px solid #CCC;
+}
+
+
+.parent td {
+    padding: 5px; 
+    border-collapse: collapse;
+    font: 11px "Lucida Grande","Lucida Sans Unicode",Arial,sans-serif;
+    color: #666;
+}
+    
+.child {
+    background:#ffffff;
+    cursor:pointer;
+    height:auto;
+    padding: 5px;
+    border-collapse: collapse;
+}
+.child td {
+    padding: 5px; 
+    border-collapse: collapse; }
+.head1 { 
+    background-color: #F8F8F8; 
+    color:#fff; 
+    padding:7px; 
+    text-align:left;}
+.head1 th {
+    padding:5px; 
+    text-align:left;
+    color: #A5A5A5;    
+    font-size: 12px;
+    background: none repeat scroll 0% 0% #FFF;
+}
+.detail { background:#C7DDEE none repeat-x scroll center left; 
+         color:#000;
+         border-collapse: collapse;}
+.detail td { 
+    padding:2px 1px 1px 5px;
+    font-size: 1.15em;}
+.detail div.arrow { 
+    background:transparent url(../images/ec1.png) no-repeat scroll 0px -18px; 
+    width:18px; 
+    height:18px; 
+    display:block;
+    margin-left: 5px;}
+.detail div.down { 
+    background-position:0px 0px;}
+.detail1 { 
+    background:#C7DDEE none repeat-x scroll center left; 
+    color:#000;
+    border-collapse: collapse; 
+    margin: 20px;}
+.detail td detail1 td{ 
+    padding:1px; 
+    font-size: 1.1em;}
+
+.parent1{
+    cursor:pointer;
+    height:auto;
+    border-collapse: collapse;
+}
+
+
+.parent1 td {
+    border-collapse: collapse;
+}
+    
+.child1 {
+    cursor:pointer;
+    height:auto;
+    border-collapse: collapse;
+}
+.child1 td {
+    border-collapse: collapse; }
+.head1 { 
+    text-align:left;}
+.head1 th {
+    background: none repeat scroll 0% 0% #FFF;
+}
+.detail2 { 
+         border-collapse: collapse;}
+.detail2 td { }
+.detail2 div.arrow { 
+    background:transparent url(../images/ec1.png) no-repeat scroll 0px -18px; 
+    width:18px; 
+    height:18px; 
+    display:block;
+    margin-left: 5px;}
+.detail2 div.down { 
+    background-position:0px 0px;}
+
+.detail2 div.arrow { 
+    background:transparent url(../images/ec1.png) no-repeat scroll 0px -18px; 
+    width:18px; 
+    height:18px; 
+    display:block;
+    margin-left: 5px;}
+.detail2 div.down { 
+    background-position:0px 0px;}
