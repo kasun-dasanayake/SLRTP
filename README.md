@@ -6,12 +6,10 @@ Also it has the functionality to  search travel scenarios without any time delay
 
 Installation
 
-    Download or fork the reposotery.
-    Link the databse 
- 
-
-
-Using technologies
+    Download or fork the repository.
+    Link to the databse  (planner.sql) in your server.
+    
+ Using technologies
 
     PHP
     HTML
