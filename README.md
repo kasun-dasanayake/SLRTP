@@ -7,7 +7,7 @@ Also it has the functionality to  search travel scenarios without any time delay
 Installation
 
     Download or fork the repository.
-    Link to the databse  (planner.sql) in your server.
+    Link to the database  (planner.sql) in your server.
     
  Using technologies
 
